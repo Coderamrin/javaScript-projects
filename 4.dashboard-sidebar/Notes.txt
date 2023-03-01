@@ -1,0 +1,13 @@
+// colors
+
+//Texts
+Dashboard
+
+information
+messages
+statistics
+help
+more
+
+
+

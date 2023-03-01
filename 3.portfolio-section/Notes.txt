@@ -2,3 +2,92 @@ colors
 --primary: #569aff;
 --secondery: #376ec2;
 --tirtiary: #032f70
+
+
+//Projects to render
+const projectsArray = [
+  {
+    img: "./images/img-1.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "design",
+  },
+  {
+    img: "./images/img-2.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "design",
+  },
+  {
+    img: "./images/img-3.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "fullstack",
+  },
+  {
+    img: "./images/img-4.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "fullstack",
+  },
+  {
+    img: "./images/img-5.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "fullstack",
+  },
+  {
+    img: "./images/img-6.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "vanilla",
+  },
+  {
+    img: "./images/img-7.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "vanilla",
+  },
+  {
+    img: "./images/img-8.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "vanilla",
+  },
+  {
+    img: "./images/img-9.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "vanilla",
+  },
+  {
+    img: "./images/img-10.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "design",
+  },
+  {
+    img: "./images/img-11.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "design",
+  },
+  {
+    img: "./images/img-12.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    live: "/#",
+    code: "/#",
+    tag: "design",
+  },
+];

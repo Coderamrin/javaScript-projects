@@ -1,0 +1,32 @@
+//shadow
+  box-shadow: -2px 0 20px rgba(177, 177, 177, 0.842);
+
+//Text
+
+It was a great experience
+
+Nunc tristique leo a tortor malesuada, et dapibus magna lobortis. Fusce mollis quis turpis eu auctor. Maecenas et molestie purus. Quisque pretium quam nec nunc condimentum.
+
+Suspendisse rutrum lorem tellus, sed dignissim libero scelerisque in. Ut ut neque quis sem sodales pellentesque in et nunc. Vivamus in erat in mauris suscipit venenatis.
+
+Nunc tristique leo a tortor malesuada, et dapibus magna lobortis. Fusce mollis quis turpis eu auctor. Maecenas et molestie purus. Quisque pretium quam nec nunc condimentum, consequat eleifend nibh convallis. 
+
+
+I am checking for next review
+
+Aenean suscipit, nisi in feugiat venenatis, est felis malesuada erat, vitae fermentum tortor ligula nec lectus. Suspendisse potenti. Mauris ultricies turpis a justo lobortis, a condimentum odio tincidunt. Mauris malesuada consequat scelerisque.
+
+Suspendisse porta, est sit amet convallis egestas, odio libero pellentesque massa, congue sodales enim nulla at neque. Mauris maximus turpis et nunc interdum volutpat. Cras ultricies tortor dui, gravida finibus neque commodo nec.
+Ut massa purus, porta eu ipsum in, iaculis tempus dui. 
+
+Curabitur interdum, elit id dictum maximus, mauris urna pulvinar mauris, nec lacinia neque quam eu orci. Integer pellentesque condimentum rutrum. Cras nec diam eros. Phasellus pulvinar porttitor enim nec condimentum.  
+
+
+
+Looks like it's done!
+
+Quisque convallis ante ut volutpat accumsan. Sed bibendum placerat suscipit. Duis fermentum neque quam, a sagittis tellus feugiat sit amet. Nunc ut eros id augue fermentum eleifend nec nec risus. Quisque id purus hendrerit, euismod elit eu, feugiat ex. Phasellus euismod porttitor diam a feugiat. 
+
+Aliquam erat volutpat. Etiam molestie a turpis eget vehicula. In ut ultrices orci, in aliquet erat. Nullam auctor ultrices est nec tristique. Proin efficitur faucibus elementum. 
+
+Suspendisse potenti. Vivamus varius urna a massa scelerisque mattis. Suspendisse a accumsan nisl, eu sagittis erat. Morbi turpis purus, ornare eu sem ut, viverra efficitur ante. Nam pharetra ultrices ipsum, gravida rutrum erat porttitor in. 

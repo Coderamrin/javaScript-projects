@@ -1,0 +1,22 @@
+// Colors
+:root {
+    --primary: #1f3138;
+    --seconder: #fdf3ed;
+    --accent: #f05938;
+}
+
+// Font
+
+
+//Texts
+FAQ
+
+What have you created that you are proud of?
+
+How can you be sure the numbers are random?
+
+Are the numbers available in a secure fashion?
+
+What if I need more numbers than is allowed?
+
+nextElementSibling
